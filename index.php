@@ -48,19 +48,19 @@
                 </div>
                 <div class="row card-body" id="Resultado">
                     <div class="col">
-                        <label for="Pais" class="form-label">Selecciona un país:</label>
-                        <select id="Pais" class="form-select">
+                        <label for="pais" class="form-label">Selecciona un país:</label>
+                        <select id="pais" class="form-select">
                             <option value="">Seleccione un país</option>
                         </select>
                     </div>
                     <div class="col">
                         <p class="card-text mt-2">
-                            <strong>Nombre del Usuario</strong> <input type="text" id="NombreUsario" class="form-control mb-2" readonly>
+                            <strong>Nombre del Usuario</strong> <input type="text" id="nombreusuario" class="form-control mb-2" readonly>
                         </p>
                     </div>
                     <div class="col">
                         <p class="card-text mt-2">
-                            <strong>Código de área del país:</strong> <input type="text" id="Telefono" class="form-control" readonly>
+                            <strong>Código de área del país:</strong> <input type="text" id="telefono" class="form-control" readonly>
                         </p>
                     </div>
                 </div>
